@@ -12,7 +12,8 @@ falls down. That is how we are able to make kids distracted. So that it
 will make an easy journey for passengers and fellow passengers.
 
 # Project Image 
-![WhatsApp Image 2022-03-29 at 8 49 28 PM](https://user-images.githubusercontent.com/51821426/160646567-6086a425-79c9-4443-afc3-1ed360cf4501.jpeg)
+![WhatsApp Image 2022-03-29 at 8 56 53 PM](https://user-images.githubusercontent.com/51821426/160647898-555b4158-a25f-4490-88ce-e5b7b6fcb0d2.jpeg)
+
 
 ## Project
 Project demo click [here](https://www.youtube.com/watch?v=attlsLAmOpw)
