@@ -17,6 +17,8 @@ will make an easy journey for passengers and fellow passengers.
 
 ## Project
 Project demo click [here](https://www.youtube.com/watch?v=attlsLAmOpw)
+## Flow Chart   
+click [here](https://faizan-alam-1.github.io/BIAL-Genie-Hackathon/)
 
 
 ## Dependencies 
